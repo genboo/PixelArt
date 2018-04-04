@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PixelArt</string>
+
+    <string name="title_activity_main">PixelArt</string>
+</resources>
